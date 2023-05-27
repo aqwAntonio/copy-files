@@ -1,0 +1,10 @@
+/bin/
+/.idea/
+/include/
+/lib
+/lib64
+/usb_aqwantonio.egg-info/
+/pyvenv.cfg
+/usb_aqwantonio/error.log
+/usb_aqwantonio/form.ui.autosave
+/usb_aqwantonio/untitled.*
