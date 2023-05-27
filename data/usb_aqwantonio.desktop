@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Copy Files
+Exec=usb_aqwantonio
+Icon=usb_aqwantonio
+StartupWMClass=UsbAqwantonio
+Type=Application
+Categories=Utility;
+Keywords=copy;files;usb;
